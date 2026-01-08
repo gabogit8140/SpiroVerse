@@ -1,0 +1,5 @@
+{
+  "name": "SpiroVerse",
+  "description": "A next-generation Spirograph simulator featuring 2D and 3D rendering modes, infinite customization, and random pattern generation.",
+  "requestFramePermissions": []
+}
